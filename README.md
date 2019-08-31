@@ -1,2 +1,2 @@
-# algorithmicCoding
-Stores all my algorithmic coding
+# Data structures and Algorithm
+Data structure and alogorithm code working examples
